@@ -1,28 +1,38 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "¡Bienvenido a Jekyll!"
 date:   2023-09-04 19:35:14 +0200
-categories: jekyll update
+categories: jekyll actualización
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Encontrarás esta publicación en tu directorio `_posts`. Continúe, edítela y reconstruya el sitio 
+para ver los cambios. Puede reconstruir el sitio de muchas maneras diferentes, pero la forma más 
+común es ejecutar `jekyll serve. `, que inicia un servidor web y regenera automáticamente su sitio 
+cuando se actualiza un archivo.
 
-Jekyll requires blog post files to be named according to the following format:
+Jekyll requiere que los archivos de publicaciones de blog tengan nombres de acuerdo con el siguiente 
+formato:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+`AÑO-MES-DIA-titulo.EXTENSION_MARCADO`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Donde `AÑO` es un número de cuatro dígitos, `MES` y `DÍA` son números de dos dígitos y 
+`EXTENSION_MARKUP` es la extensión de archivo que representa el formato utilizado en el archivo. 
+Después de eso, incluya el texto inicial necesario. Eche un vistazo a la fuente de esta publicación 
+para tener una idea de cómo funciona.
 
-Jekyll also offers powerful support for code snippets:
+
+Jekyll también ofrece un potente soporte para fragmentos de código:
 
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+#=> imprime 'Hi, Tom' en STDOUT.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Compruebe los [Jekyll docs][jekyll-docs] para obtener más información sobre cómo aprovechar Jekyll 
+al máximo. Presente todos los errores/solicitudes de funciones en [Jekyll’s GitHub repo][jekyll-gh]. 
+Si tienes dudas, puedes hacerlas en [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

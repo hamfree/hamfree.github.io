@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About
+title: Acerca de
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Este el tema básico de Jekyll. Puede encontrar más información sobre la personalización de su tema Jekyll, como 
+también la documentación de uso básica de Jekyll en [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
+Puede buscar el código fuente oara Minima en GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
+Puede buscar el código fuente para Jekyll en GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
