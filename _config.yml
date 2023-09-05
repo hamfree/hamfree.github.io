@@ -27,6 +27,11 @@ domain: hamfree.github.io
 url: https://hamfree.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: hamfree
+markdown: CommonMarkGhPages
+
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 
 # Build settings
 theme: minima
