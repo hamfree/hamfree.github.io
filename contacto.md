@@ -8,7 +8,9 @@ Si quieres contactar conmigo (_antes te recomiendo que visites a tu psiquiatra_)
 
 ![mi dirección de correo electrónico!](correo-electronico.png)
 
-Me quita usted los espacios (para evitar el correo basura) antes de enviar el correo o no me llegará nunca. Todos mis correos van a ir **firmados con una clave GPG**.
+No intentes seleccionar la dirección de correo de arriba, es una imagen... ¿Porqué? Porque la red está llena de individuos que quieren aprovecharse de ti, y obteniendo tu dirección de correo te la pueden liar. 
+
+Debes saber que todos mis correos van a ir **firmados con una clave GPG**.
 
 El ID de clave es:
 
@@ -24,5 +26,5 @@ Y la **clave pública** la puedes encontrar en el:
 
 ***
 
-Última actualización : 21 de julio de 2.023
+Última actualización : 6 de Septiembre de 2.023
 

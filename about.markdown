@@ -13,6 +13,8 @@ Hola, soy un desarrollador de Java con más de 15 años de experiencia. Si quier
 
 **¡Muchas gracias por visitar este sitio!**
 
+### Información sobre Jekyll
+
 Este el tema básico de Jekyll. Puede encontrar más información sobre la personalización de su tema Jekyll, como también la documentación de uso básica de Jekyll en [jekyllrb.com](https://jekyllrb.com/)
 
 Puede buscar el código fuente oara Minima en GitHub:
