@@ -6,8 +6,6 @@ permalink: /about/
 
 Hola, soy un desarrollador de Java con más de 15 años de experiencia. Si quieres saber más sobre mí puedes consultar los sitios siguientes:
 
-
-
 - [Blog](https://juanfranciscoruiz.nom.es)
 - [Otros enlaces](https://linktr.ee/h4mfr33)
 
@@ -24,6 +22,5 @@ Puede buscar el código fuente oara Minima en GitHub:
 Puede buscar el código fuente para Jekyll en GitHub:
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
-
 
 [jekyll-organization]: https://github.com/jekyll
